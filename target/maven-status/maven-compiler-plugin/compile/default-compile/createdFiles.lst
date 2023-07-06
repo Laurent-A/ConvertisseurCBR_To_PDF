@@ -1,0 +1,3 @@
+app\MainApp.class
+services\ManagerOfFiles.class
+services\Convertisseur.class
